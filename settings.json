@@ -4,7 +4,7 @@
     "headless": true,
     "ezqr": true,
     "popup": false,
-    "qrTimeout": 0,
+    "qrTimeout": 90,
     "authTimeout": 60,
     "cacheEnabled": false,
     "useChrome": true,
@@ -14,7 +14,7 @@
     "throwErrorOnTosBlock": false
   },
   "general": {
-    "owner": "",
+    "owner": "6285777451314",
     "prefix": ".",
     "GlobalChat": true,
     "Register": "json",
