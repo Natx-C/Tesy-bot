@@ -4,7 +4,7 @@
     "headless": true,
     "ezqr": true,
     "popup": false,
-    "qrTimeout": 90,
+    "qrTimeout": 0,
     "authTimeout": 60,
     "cacheEnabled": false,
     "useChrome": true,
